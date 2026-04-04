@@ -1,0 +1,144 @@
+<div class="pc" data-cat="agri">
+  <img src="assets/ (39).jpeg" alt="Wooden Toys" />
+  <!-- <div class="pi ag2"></div> -->
+  <div class="pb">
+    <span class="ptag">Agricultural</span>
+    <h3>Spices &amp; Herbs</h3>
+    <p>
+      Turmeric, cumin, coriander, cardamom — whole &amp; ground. Organic
+      certifications available on request.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 5 MT</span><span>🌍 45+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="agri">
+  <div class="pi ag3"></div>
+  <div class="pb">
+    <span class="ptag">Agricultural</span>
+    <h3>Fresh Vegetables</h3>
+    <p>
+      Onions, potatoes, garlic, and seasonal produce. Cold-chain logistics
+      available for freshness.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 10 MT</span><span>🌍 30+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="fresh">
+  <div class="pi tx1"><span class="pbadge">Bestseller</span></div>
+  <div class="pb">
+    <span class="ptag">Fresh Fruits</span>
+    <h3>Cotton Fabrics</h3>
+    <p>
+      Woven &amp; knitted cotton in all GSM ranges. BCI cotton available. OCS
+      &amp; GOTS certified.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 3000 m</span><span>🌍 50+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="handi">
+  <div class="pi tx2"></div>
+  <div class="pb">
+    <span class="ptag">Handicraft</span>
+    <h3>Ready-Made Garments</h3>
+    <p>
+      Men's, women's, and kids' apparel. FOB &amp; CIF pricing. Private label
+      accepted.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 500 pcs</span><span>🌍 40+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="handi">
+  <div class="pi en1"><span class="pbadge">New</span></div>
+  <div class="pb">
+    <span class="ptag">Handicraft</span>
+    <h3>Steel &amp; Iron Castings</h3>
+    <p>
+      Grey iron, ductile iron, and alloy steel castings for automotive and
+      industrial sectors.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 5 MT</span><span>🌍 25+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="agri">
+  <div class="pi en2"></div>
+  <div class="pb">
+    <span class="ptag">Agricultural</span>
+    <h3>Pumps &amp; Valves</h3>
+    <p>
+      Centrifugal, submersible, and industrial pumps. ISO 9001:2015 certified
+      manufacturers.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 50 units</span><span>🌍 35+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="fresh">
+  <div class="pi fo1"><span class="pbadge">Organic</span></div>
+  <div class="pb">
+    <span class="ptag">Fresh Fruits</span>
+    <h3>Processed Foods</h3>
+    <p>
+      Ready-to-eat, pickles, chutneys, sauces, and ready meals. Halal &amp;
+      Kosher certified options.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 2 MT</span><span>🌍 40+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="Fresh">
+  <div class="pi fo2"></div>
+  <div class="pb">
+    <span class="ptag">Fresh Fruits</span>
+    <h3>Tea &amp; Coffee</h3>
+    <p>
+      Assam CTC, Darjeeling orthodox, South Indian filter coffee. Specialty
+      blends available.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 1 MT</span><span>🌍 55+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
+
+<div class="pc" data-cat="handi">
+  <div class="pi ch1"></div>
+  <div class="pb">
+    <span class="ptag">Handicraft</span>
+    <h3>Dyes &amp; Pigments</h3>
+    <p>
+      Reactive, acid, and vat dyes for the textile industry. REACH-compliant for
+      EU export.
+    </p>
+    <div class="pmeta">
+      <span>📦 Min. 1 MT</span><span>🌍 30+ markets</span>
+    </div>
+    <a class="btn-sm nav-item" data-pg="contact">Enquire Now</a>
+  </div>
+</div>
